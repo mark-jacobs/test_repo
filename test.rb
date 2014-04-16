@@ -4,5 +4,6 @@ ARGV.length.times do |each_one|
     result *= ARGV[each_one].to_i
 end
 # test comment for pull
+# another test
 # display result to screen
 puts 'The result is ' + result.to_s
